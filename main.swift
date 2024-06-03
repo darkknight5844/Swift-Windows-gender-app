@@ -1,4 +1,3 @@
-
 import MinGWCrt
 import wx
 
