@@ -1,14 +1,3 @@
-// Copyright (c) 2017 Han Sangjin
-// Licensed under Apache License v2.0 with Runtime Library Exception
-//
-// See https://swift.org/LICENSE.txt for license information
-
-// This is a sample program using wxSwift and provides a simple user interface.
-// Compile: 
-//   windres --preprocessor=mcpp -i Application.rc -o Application.obj
-//   swiftc.exe SwiftForWindows.swift -o SwiftForWindows.exe -Xlinker
-//              --subsystem -Xlinker windows -Xlinker Application.obj
-//   strip SwiftForWindows.exe
 
 import MinGWCrt
 import wx
