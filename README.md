@@ -1,4 +1,4 @@
-
+![Untitled video - Made with Clipchamp](https://github.com/darkknight5844/Swift-Windows-gender-app/assets/145830163/649729fe-1a3a-481d-b80e-4faf11726b68)
 
 Steps to run the app
 1. go to website https://swiftforwindows.github.io/ and install SwiftForWindows-2.0.exe and run it
